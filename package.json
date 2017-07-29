@@ -1,5 +1,5 @@
 {
-  "name": "fcc-timestampms",
+  "name": "fcc-request-header-parser",
   "dependencies": {
     "express": "^4.14.0",
     "useragent": "^2.2.1"
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/beastoso/timestampms.git"
+    "url": "https://github.com/beastoso/request-header-parser.git"
   }
 }
